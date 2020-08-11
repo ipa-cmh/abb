@@ -31,11 +31,15 @@ The `abb_driver` package was migrated from this repository to [ros-industrial/ab
 
 Please file enhancement requests and report issues for `abb_driver` on the issue tracker of `ros-industrial/abb_driver`.
 
+##Security
+Please follow instructions on [ROS Security][] when using this driver.
 
 [ROS-Industrial]: http://wiki.ros.org/Industrial
 [ROS wiki]: http://wiki.ros.org/abb
+[ROS security]: http://wiki.ros.org/Security
 [abb_experimental]: https://github.com/ros-industrial/abb_experimental
 [subversion repository]: https://code.google.com/p/swri-ros-pkg/source/browse
 [REP-I0007]: https://github.com/ros-industrial/rep/blob/master/rep-I0007.rst
 [ros-industrial/abb_driver]: https://github.com/ros-industrial/abb_driver
 [ros-industrial/abb#179]: https://github.com/ros-industrial/abb/issues/179
+
